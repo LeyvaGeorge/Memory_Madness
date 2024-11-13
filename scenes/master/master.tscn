@@ -19,3 +19,6 @@ texture = ExtResource("1_sjdwn")
 [node name="Main" parent="." instance=ExtResource("3_xrgw2")]
 
 [node name="Game" parent="." instance=ExtResource("4_358y7")]
+
+[node name="Sound" type="AudioStreamPlayer" parent="."]
+volume_db = -8.5
